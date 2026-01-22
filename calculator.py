@@ -14,3 +14,6 @@ def divide(a, b):
 
 def error():
     print("contribute")
+
+def trydebug():
+    print("try catch error")
